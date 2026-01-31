@@ -1,4 +1,4 @@
-#All contributions, 
+All contributions, 
 bug reports, 
 bug fixes, 
 documentation improvements, 
